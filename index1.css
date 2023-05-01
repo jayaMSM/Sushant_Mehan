@@ -36,10 +36,9 @@ color: #007bff;
     -webkit-transform: scale(1.2); /* Safari 3-8 */
     transform: scale(1.2); 
 }
-
 .imgs1
 {
-   width: 80px; 
+   width: 120px; 
    display: inline-block;
 
 }
@@ -49,6 +48,7 @@ color: #007bff;
     -webkit-transform: scale(1.2); /* Safari 3-8 */
     transform: scale(1.2); 
 }
+
 
 
 p{
